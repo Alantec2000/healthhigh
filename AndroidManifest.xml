@@ -60,4 +60,8 @@
             android:label="Desafios" />
         <service android:name=".ServicoSensorPasso" />
     </application>
+<<<<<<< HEAD
 </manifest>
+=======
+</manifest>
+>>>>>>> 12f086a3d9f157ddd1a47a70ab519bff4bc2dfb3
