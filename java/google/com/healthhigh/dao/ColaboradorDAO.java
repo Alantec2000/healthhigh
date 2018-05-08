@@ -7,6 +7,7 @@ import google.com.healthhigh.domain.Colaborador;
 
 public class ColaboradorDAO extends DAO {
     private Colaborador cb;
+
     public static final String TABLE_NAME = "hh_colaborador";
     public static final String ID = "id_colaborador";
     public static final String NOME = "s_nome_colaborador";
